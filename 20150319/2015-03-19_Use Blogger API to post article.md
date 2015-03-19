@@ -1,3 +1,4 @@
+  
 ### Use blogger script to post Markdown(.md) to Blogger
 
 #### Virtual Environment
@@ -23,7 +24,7 @@ Pre-requisite:
      On Linux:
      $ source py2venv/bin/activate
   ```
-- Exit the virtual environment
+- Exit the virtual environment  
   ` $ deactivate `
 
 > Reference:  
@@ -61,6 +62,8 @@ Pre-requisite:
 - I made some change to support command line argument to post html article 
   If the content already exists on blogger, it will not post.
 
+  [blogger.py](https://github.com/rickhau/blogger/blogger.py)
+
 ```
     To publish html file to blogger as a new post with title:
 
@@ -74,11 +77,11 @@ Pre-requisite:
 ```
 
 > Reference Links:
-> - Enable Google Blogger API using your google account
+> - Enable Google Blogger API using your google account  
 >   http://wescpy.blogspot.com/2014/11/authorized-google-api-access-from-python.html
-> - gdata-python-client library
+> - gdata-python-client library  
     https://developers.google.com/gdata/docs/client-libraries
-> - Getting Started
+> - Getting Started  
     https://developers.google.com/gdata/articles/python_client_lib
-> - Blogger Python developer guide
+> - Blogger Python developer guide  
     https://developers.google.com/blogger/docs/1.0/developers_guide_python
