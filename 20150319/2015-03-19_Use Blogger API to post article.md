@@ -38,12 +38,12 @@ Pre-requisite:
 #### Enable your API project
 - Go to [Google Developer Console](https://console.developers.google.com/)
 - Click **Create Project** button  
-    + Enter *Project Name* (Ex: BloggerAPI)
+    + Enter *Project Name* (Ex: BloggerAPI)  
 ![html](https://github.com/rickhau/blogger/blob/master/20150319/imgs/01.png)
-    + Go to *APIs & auth* --> *Credentials*
+    + Go to *APIs & auth* --> *Credentials*  
 ![html](https://github.com/rickhau/blogger/blob/master/20150319/imgs/02.png)
 - Click **Create new ClientID**
-    + Choose *Installed application* as we are going to create CLI scripts
+    + Choose *Installed application* as we are going to create CLI scripts  
 ![html](https://github.com/rickhau/blogger/blob/master/20150319/imgs/03.png)
 	+ Click *Configure consent screen
 	  * Choose your gmail
