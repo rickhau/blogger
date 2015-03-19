@@ -62,8 +62,6 @@ Pre-requisite:
 - I made some change to support command line argument to post html article 
   If the content already exists on blogger, it will not post.
 
-  [blogger.py](https://github.com/rickhau/blogger/blogger.py)
-
 ```
     To publish html file to blogger as a new post with title:
 
