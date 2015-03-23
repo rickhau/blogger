@@ -59,7 +59,7 @@ Pre-requisite:
 
 #### Download the Blogger API script
 
-- I made some change to support command line argument to post html article 
+- I made some change to support command line argument to post html article  
   If the content already exists on blogger, it will not post.
 
 ```
