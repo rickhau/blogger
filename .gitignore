@@ -1,3 +1,4 @@
 *.html
 *.htm
 *.py
+.DS_Store
